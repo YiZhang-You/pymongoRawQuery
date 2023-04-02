@@ -1,3 +1,3 @@
-from main import *
+from pymongoRawQuery.pymongoRawQuery import PyMongoRawQuery
 
 NAME = "yyz"
