@@ -73,6 +73,8 @@ pip install PyMongoRawQuery=1.0.1
 ## nosql原生语句查询示例
 
 ```python
+from pymongoRawQuery import PyMongoRawQuery
+
 # 1. 连接
 db = PyMongoRawQuery(host="127.0.0.1", port=27017, user="admin", pwd="admin123", database="test")
 
@@ -108,6 +110,7 @@ for i in db.raw_query(nosql):
 		...
 	]
   """
+from pymongoRawQuery import PyMongoRawQuery
 
 # 1. 连接
 db = PyMongoRawQuery(host="127.0.0.1", port=27017, user="admin", pwd="admin123", database="test")
@@ -141,6 +144,8 @@ print(db.conditional_query(restrictions, 'col'))
 ## 获取mogno数据库结构
 
 ```python
+from pymongoRawQuery import PyMongoRawQuery
+
 # 1. 连接
 db = PyMongoRawQuery(host="127.0.0.1", port=27017, user="admin", pwd="admin123", database="test")
 
