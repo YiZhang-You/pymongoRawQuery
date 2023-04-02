@@ -1,4 +1,15 @@
 # pymongoRawQuery
+
+> 版本：1.0.1
+> 
+> 
+> 作者：益章
+> 
+> 邮件：yyz18071720400@163.com
+> 
+> 微信：YiZhang_You
+>
+
 # **功能**
 
 ## 一、mongodb原生查询
@@ -11,7 +22,7 @@
 
 ### 1. 类型于其他连接mongo的筛选工具
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/315b21c7-eb88-4f2e-8420-f7460a6561bd/Untitled.png)
+![IMG1](https://largestrong-1303013347.cos.ap-nanjing.myqcloud.com/img1.png)
 
 ### 2. 支持常用操作符筛选
 
