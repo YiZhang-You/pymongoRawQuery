@@ -68,7 +68,7 @@ customize: 自定义类型
 
 ### 安装
 
-pip install PyMongoRawQuery=1.0.1
+pip install PyMongoRawQuery
 
 ## nosql原生语句查询示例
 
